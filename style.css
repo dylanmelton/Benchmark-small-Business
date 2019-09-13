@@ -1,0 +1,46 @@
+.title {
+    text-align: center;
+    border: 2px solid white;
+    width: 20rem;
+    background-color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+body {
+    display: flex;
+    align-items: center;
+    background-image: url(https://allenvisioninc.com/wp-content/uploads/2019/04/32445676948_29be7d9ca0_b-1-1-min-1.jpg);
+    flex-direction: column;
+}
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+    font-size: 25px;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.space {
+    padding-top: 0px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.nav-link {
+    color: white;
+    font-size: 25px;
+    display: inline-block;
+}
+.nav-link:hover {
+    transform: scale(1.3)
+}
+.center-page {
+    padding-top: 30px;
+}
+.home-img {
+    margin-top: 50px;
+    border: 2px solid white;
+}
